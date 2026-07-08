@@ -22,6 +22,9 @@ match operation:
         print(m_cos(num1))
         print(m_cos(num2))  
   
+"""start of old code with if-else implementation""" 
+
+
 """if operation == '+': 
     print(add(num1, num2))
 if operation == '-':
